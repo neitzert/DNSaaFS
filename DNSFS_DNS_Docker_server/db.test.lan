@@ -1,0 +1,11 @@
+; db.test.lan - DNS zone for DNSFS
+$TTL    60
+@       IN      SOA     ns.test.lan. admin.test.lan. (
+                              2025041702 ; Serial
+                              3600       ; Refresh
+                              1800       ; Retry
+                              604800     ; Expire
+                              60 )       ; Negative Cache TTL
+;
+        IN      NS      ns.test.lan.
+ns      IN      A       127.0.0.1

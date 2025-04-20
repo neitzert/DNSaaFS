@@ -1,0 +1,25 @@
+services:
+  dnsfs:
+    container_name: dnsfs-server
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "1053:53/udp"
+      - "1053:53/tcp"
+    volumes:
+      - ./zones:/etc/bind/zones
+      - ./log:/var/log/named
+    restart: unless-stopped
+    cap_add:
+      - NET_ADMIN
+    networks:
+      dnsnet:
+        ipv4_address: 172.28.0.53
+
+networks:
+  dnsnet:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.28.0.0/16

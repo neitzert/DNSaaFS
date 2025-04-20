@@ -1,0 +1,29 @@
+// named.conf.options
+
+// 🆕 Set journal write-back interval (default is on shutdown only)
+server {
+    automatic-interface-scan yes;
+    zone-statistics yes;
+    flush-zones-on-shutdown yes;
+};
+
+options {
+    directory "/var/cache/bind";
+
+    recursion yes;
+    allow-recursion { any; };
+
+    listen-on port 53 { any; };
+    allow-query { any; };
+
+    dnssec-validation no;
+    auth-nxdomain no;
+    listen-on-v6 { none; };
+    empty-zones-enable no;
+
+    forwarders {};
+
+    // 🆕 This tells BIND to dump journal files every 15 minutes
+    zone-statistics yes;
+    flush-zones-on-shutdown yes;
+};

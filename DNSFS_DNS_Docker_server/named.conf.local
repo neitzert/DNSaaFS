@@ -1,0 +1,11 @@
+key "mykey" {
+    algorithm hmac-sha256;
+    secret "SomeGoofySecret";
+};
+
+
+zone "test.lan" {
+    type master;
+    file "/etc/bind/zones/db.test.lan";
+    allow-update { key "dnsfs-key"; };
+};
