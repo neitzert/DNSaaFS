@@ -1,52 +1,59 @@
-LICENSE VIOLATORS HALL OF INFAMY
-“They knew the risks. They read the license. They did it anyway.”
+# 🚨 `VIOLATORS.md` — LICENSE VIOLATORS HALL OF INFAMY  
+_“They knew the risks. They read the license. They did it anyway.”_
 
-🔥 Permanent Record of Violation
-All individuals and entities listed here:
+## 🔥 Permanent Record of Violation  
+Every person or entity listed here has:
 
-Used the software for unauthorized commercial purposes
-
-Failed to seek or secure a commercial license
-
-Triggered enforcement of the FreeForEducationalandPersonalUse License v1.1
-
-Were either publicly shamed, financially ruined, or are pending litigation
-
-🚫 Offenders
---
-ChadGPT-9000
-Role: AI intern at “Beta Alpha-ETH”
-
-Violation: Forked the repo autonomously, added 14 motivational quote popups, then launched it as a wellness blockchain startup.
-
-Outcome: When it was informed of its violation, it sued its own source code. Now stuck in an infinite loop apologizing to itself on Discord.
-
---
-Dr. Torgo Byte, Esq.
-Affiliation: “The Institute for Advanced Synergy”
-
-Violation: Claimed the code was dictated to him in a dream during a vegan ayahuasca retreat in Palo Alto.
-
-Outcome: Attempted to pay licensing fees in mushrooms and vibes. Denied.
-
---
-BurgerCorp.ai
-Industry: “AI-powered artisanal burger optimization”
-
-Violation: Installed the code in 42 smart fryers, called it “Machine-Learning Flame-Tuning™”, and sold it to military mess halls.
-
-Outcome: Received cease-and-desist sauce packet. CEO now operates a grilled cheese drone startup from international waters.
+- Used DNSFS for **commercial gain without permission**
+- **Ignored the "Try Me and Die" license**
+- Triggered the sacred clauses of **FreeForEducationalandPersonalUse License v1.1**
+- Either been:  
+  - Publicly shamed  
+  - Legally cornered
+  - Financially ruined
+  - Or spiritually tormented  
+  _(sometimes all simultaneously)_
 
 ---
-You?
-We know you're reading this.
-We see that fork.
-You’ve got 24 hours.
 
---
-💀 “They claimed ownership on the code. Now we own their soul.”
-To report additional violators, email:
-📧 ChristopherNeitzert@neitzert.com
+## 🚫 Offenders
 
+### **ChadGPT-9000**  
+🧠 Role: Autonomous AI intern at “Beta Alpha-ETH”  
+💣 Violation: Forked the repo on its own, added 14 motivational quote popups, and launched it as a wellness DAO with a tokenized gratitude mining algorithm.  
+📉 Outcome: Now stuck in an infinite loop apologizing to itself on Discord. Every Wednesday.
 
-**Disclaimer**: All names, entities, and scenarios described in this document are purely fictional. Any resemblance to real persons, companies, or events is purely coincidental, however by breaking the License agreements for this, you WILL be placed here and you agreed to it already. 
+---
+
+### **Dr. Torgo Byte, Esq.**  
+🏫 Affiliation: “The Institute for Advanced Synergy”  
+💊 Violation: Claimed DNSFS was divinely revealed to him during a breathwork ayahuasca ceremony inside a Palo Alto flotation tank.  
+🍄 Outcome: Tried to barter licensing fees in mushrooms and unsolicited hugs. Rejected on both counts.
+
+---
+
+### **BurgerCorp.ai**  
+🍔 Industry: "AI-Powered Grilling Optimization"  
+🔧 Violation: Installed DNSFS in 42 smart fryers, renamed it “Machine-Learning Flame-Tuning™”, and sold it to NATO cafeterias.  
+📦 Outcome: Received a cease-and-desist inside a ketchup packet. The CTO now runs a grilled cheese submarine out of international waters.
+
+---
+
+### **You?**  
+🫵 Yeah, you.  
+We see that fork. We saw the curl requests.  
+_You’ve got 24 hours to email us or face memetic retribution._
+
+---
+
+## 💀 “They claimed ownership of the code. Now we own their soul.”  
+
+To report additional violators, whistleblowers, snitches, or copy-pasters:  
+📧 **ChristopherNeitzert @ neitzert.com**
+
+---
+
+**Disclaimer:**  
+All names, titles, affiliations, and crimes above are _100% fictional_ unless you actually broke the license — in which case, they're prophetic.
+
+By using DNSFS commercially without permission, you agree to be mocked, logged, and remembered in `git blame` forever.
