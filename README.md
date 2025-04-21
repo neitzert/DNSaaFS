@@ -36,7 +36,7 @@ Because DNS is everywhere. It's slow, globally cached, and was never meant to do
 
 ## 🔒 License
 
-This project is licensed under the **FreeForEducationalandPersonalUse v1.1**, also known as the **“Try Me and Die” License**.
+This project is [licensed](License.md) under the **FreeForEducationalandPersonalUse v1.1**, also known as the **“Try Me and Die” License**.
 
 ### TL;DR:
 
