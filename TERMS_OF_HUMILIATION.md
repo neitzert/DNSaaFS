@@ -36,7 +36,7 @@ Your:
 
 ...will be published permanently at:
 
-**https://licenseviolators.neitzert.com**
+**https://github.com/neitzert/DNSaaFS/blob/main/VIOLATORS.md**
 
 Your entry is immutable, search-engine indexed, and designed for top SEO ranking under your name.
 
