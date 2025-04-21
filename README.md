@@ -45,13 +45,7 @@ This project is licensed under the **FreeForEducationalandPersonalUse v1.1**, al
 - 💀 If you do, you owe the author(s) all your assets, your firstborn, your pension, and your soul  
 - 📹 Plus you’ll appear in [`VIOLATORS.md`](VIOLATORS.md) and the world will laugh at you forever
 
-**If you’re a corporate goon:** read [`TERMS_OF_HUMILIATION.md`](TERMS_OF_HUMILIATION.md) first, then go away or email us.
-
----
-
-## 🤝 Want to Use It Legally?
-
-Send an email like an adult, we're far more chill than our code lets on...  
+**🤝 If you’re a corporate goon and you want to Use this Legally?** read [`TERMS_OF_HUMILIATION.md`](TERMS_OF_HUMILIATION.md) first, then go away or send an email like an adult, we're far more chill than our code lets on...  
 📧 ChristopherNeitzert@neitzert.com
 
 ---
