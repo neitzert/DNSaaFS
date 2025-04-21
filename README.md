@@ -1,7 +1,7 @@
 # 🧠 DNSaaFS  
 ### A DNS-backed, encrypted, chunked, stateless filesystem for maniacs and misfits.
 
-**DNSFS** is a filesystem that stores encrypted file chunks as DNS zone records.  
+**DNSaaFS** is a filesystem that stores encrypted file chunks as DNS zone records.  
 It uses zero trusted infrastructure, leverages DNS caching infrastructure, and laughs in the face of centralized control.
 
 ---
