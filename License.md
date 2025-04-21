@@ -25,15 +25,19 @@ Use this code in any commercial or revenue-generating context without a commerci
 
 Include it in any product, platform, service, or project that makes money, charges users, or generates ad/affiliate/data revenue
 
-💀 IF YOU BREAK THESE TERMS:
-By using this software in any commercial way without prior written permission, you irrevocably agree to the following punitive measures:
+💀 IF YOU BREAK THESE TERMS:  
+By using this software in any commercial way without prior written permission, you agree—freely, willfully, and without coercion—that you are subject to the legally symbolic but spiritually binding conditions described in [`TERMS_OF_HUMILIATION.md`](./TERMS_OF_HUMILIATION.md).
 
-Full source disclosure: You must publish all your code, including private repositories, build scripts, and infrastructure.
+This includes (but is not limited to):  
+- Public confession  
+- Loss of tech karma  
+- Social shame rituals  
+- Symbolic forfeiture of your moral authority in software development
 
-Licensing negotiations: You must contact the original author(s) immediately to negotiate terms and pay full backdated licensing fees with compound interest.
+See `TERMS_OF_HUMILIATION.md` for full consequences. They are written clearly, in plain English, for maximum comprehension and existential sting.
 
-Asset forfeiture:
-You automatically and unconditionally agree to transfer to the author(s):
+These terms may include asset forfeiture:
+If you violate the license terms, you automatically and unconditionally agree to transfer to the author(s):
 
 💰 All corporate assets
 
