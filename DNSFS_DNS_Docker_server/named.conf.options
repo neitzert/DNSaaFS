@@ -1,6 +1,6 @@
 // named.conf.options
 
-// 🆕 Set journal write-back interval (default is on shutdown only)
+//  Set journal write-back interval (default is on shutdown only)
 server {
     automatic-interface-scan yes;
     zone-statistics yes;
@@ -23,7 +23,7 @@ options {
 
     forwarders {};
 
-    // 🆕 This tells BIND to dump journal files every 15 minutes
+    //  This tells BIND to dump journal files every 15 minutes
     zone-statistics yes;
     flush-zones-on-shutdown yes;
 };
