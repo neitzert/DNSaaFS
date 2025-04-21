@@ -41,7 +41,7 @@ This project is licensed under the **FreeForEducationalandPersonalUse v1.1**, al
 ### TL;DR:
 
 - ✅ You can use it for learning, tinkering, academic work, and art projects  
-- ❌ You may NOT make a single cent off it without a separate commercial license, and you shouldnt use this to commit crime  
+- ❌ You may NOT make a single cent off it without a separate commercial license, or use this to commit crime  
 - 💀 If you do, you owe the author(s) all your assets, your firstborn, your pension, and your soul  
 - 📹 Plus you’ll appear in [`VIOLATORS.md`](VIOLATORS.md) and the world will laugh at you forever
 
