@@ -7,7 +7,7 @@ Every person or entity listed here has:
 - Used DNSFS for **commercial gain without permission**
 - **Ignored the "Try Me and Die" license**
 - and Triggered the sacred  [`TERMS_OF_HUMILIATION.md`](TERMS_OF_HUMILIATION.md) clauses of **FreeForEducationalandPersonalUse License v1.1**
-- Either been:  
+- Therefore becoming any of the below:  
   - Publicly shamed  
   - Legally cornered
   - Financially ruined
