@@ -23,14 +23,12 @@ Every person or entity listed here has:
 💣 Violation: Forked the repo on its own, added 14 motivational quote popups, and launched it as a wellness DAO with a tokenized gratitude mining algorithm.  
 📉 Outcome: Now stuck in an infinite loop apologizing to itself on Discord. Every Wednesday.
 
----
 
 ### **Dr. Torgo Byte, Esq.**  
 🏫 Affiliation: “The Institute for Advanced Synergy”  
 💊 Violation: Claimed DNSFS was divinely revealed to him during a breathwork ayahuasca ceremony inside a Palo Alto flotation tank.  
 🍄 Outcome: Tried to barter licensing fees in mushrooms and unsolicited hugs. Rejected on both counts.
 
----
 
 ### **BurgerCorp.ai**  
 🍔 Industry: "AI-Powered Grilling Optimization"  
@@ -44,7 +42,6 @@ Every person or entity listed here has:
 We see that fork. We saw the curl requests.  
 _You’ve got 24 hours to email us or face memetic retribution._
 
----
 
 ## 💀 “They claimed ownership of the code. Now we own their soul.”  
 
