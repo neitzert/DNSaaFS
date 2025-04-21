@@ -36,22 +36,7 @@ This includes (but is not limited to):
 
 See `TERMS_OF_HUMILIATION.md` for full consequences. They are written clearly, in plain English, for maximum comprehension and existential sting.
 
-These terms may include asset forfeiture:
-If you violate the license terms, you automatically and unconditionally agree to transfer to the author(s):
-
-💰 All corporate assets
-
-🏦 All personal assets, including bank accounts, properties, vehicles, pensions, and investment portfolios
-
-👶 Your first-born child, if applicable (or the equivalent in legal guardianship, labor, or crypto)
-
-💀 A signed confession of IP theft suitable for framing
-
-🧠 Any unexploited ideas you’ve ever had
-
-Public shaming: You will be listed in the LICENSE VIOLATORS HALL OF INFAMY, and mocked indefinitely.
-
-Enforcement: Violation constitutes breach of contract, fraud, and interdimensional war. Expect litigation, extradition, and poetic justice.
+Violation constitutes breach of contract, fraud, and interdimensional war. Expect litigation, extradition, and poetic justice.
 
 ⚖️ LEGAL STATUS
 If any of the above clauses are deemed unenforceable in your jurisdiction, they will be replaced with:
