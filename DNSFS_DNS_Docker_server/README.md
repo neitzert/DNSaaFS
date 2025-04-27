@@ -15,9 +15,7 @@ Exposes TCP and UDP on port 1053
 Logs everything — because the court will want details
 
 🛠 Files in this directory
-bash
-Copy
-Edit
+```
 .
 ├── Dockerfile             # Builds the DNS server image
 ├── docker-compose.yml     # Spins it up with named.conf config & volume mappings
@@ -25,12 +23,12 @@ Edit
 ├── named.conf*            # BIND9 config: main, local, options
 ├── db.test.lan            # Your DNS zone file (edit or replace as needed)
 └── zones/                 # Mounted into container for persistent zone storage
+```
+
 🚀 Quick Start
-bash
-Copy
-Edit
-./build.sh
+```./build.sh
 docker-compose up -d
+```
 This will:
 
 Build the image as dnsfs-bind9
