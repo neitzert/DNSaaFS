@@ -8,7 +8,7 @@ You are in the client/ directory. Welcome to the edge.
 
 ### 🚀 What’s in here
 
-```bash
+```
 .
 ├── mountDNSFS.py      # The main tool. Mounts your DNS zone as a filesystem using FUSE
 ├── test_dnsfs.py      # Tests for the block device, encryption, and metadata
