@@ -1,4 +1,6 @@
 # 🧠 DNSaaFS  
+### This project will be merged into PICARD https://github.com/neitzert/picard
+
 ### A DNS-backed, encrypted, chunked, stateless filesystem for maniacs and misfits.
 
 **DNSaaFS** is a filesystem that stores encrypted file chunks as DNS zone records.  
